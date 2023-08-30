@@ -9,6 +9,7 @@ email: sr_yang@bjtu.edu.cn
 website_zhihu: ZHIHU
 website_csdn: CSDN
 website_google: Google Scholar
+website_semantic: Semantic Scholar
 github: Github
 port: 4001
 #Update all the sections by editing the files inside _includes folder.
